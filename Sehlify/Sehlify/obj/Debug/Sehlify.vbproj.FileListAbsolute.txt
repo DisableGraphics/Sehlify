@@ -1,0 +1,12 @@
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\bin\Debug\Sehlify.exe.config
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\bin\Debug\Sehlify.exe
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\bin\Debug\Sehlify.pdb
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\bin\Debug\Sehlify.xml
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\obj\Debug\Sehlify.vbprojAssemblyReference.cache
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\obj\Debug\Sehlify.Form1.resources
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\obj\Debug\Sehlify.Resources.resources
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\obj\Debug\Sehlify.vbproj.GenerateResource.cache
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\obj\Debug\Sehlify.vbproj.CoreCompileInputs.cache
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\obj\Debug\Sehlify.exe
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\obj\Debug\Sehlify.xml
+C:\Users\Curso5\source\repos\Sehlify\Sehlify\obj\Debug\Sehlify.pdb
